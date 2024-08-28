@@ -3,8 +3,6 @@
 
 ### 1. Module prepare by topics - JAVA
 
-#### Solved exercises - Easy:
-
 * zad1.java - Java Stdin and Stdout I
 * zad2.java - Java If-Else
 * zad3.java - Java Stdin and Stdout II
@@ -21,3 +19,16 @@
 * zad14.java - Java Substring Comparisons
 * zad15.java - Java String Reverse
 * zad16.java - Java Anagrams
+* zad17.java - Java String Tokens
+* zad18.java - Pattern Syntax Checker
+* zad19.java - Valid Username Regular Expression
+* zad20.java - Java HashSet
+* zad21.java - Java BigInteger
+* zad22.java - Java 2D Array
+* zad23.java - Java Currency Formatter
+* zad24.java - Java Subarray
+* zad25.java - Java Arraylist
+* zad26.java - Java 1D Array (Part 2)
+* zad27.java - Java List
+* zad28.java - Java Map
+* zad29.java - Java Stack
